@@ -22,3 +22,16 @@ button {
   padding: 8px 12px;
   cursor: pointer;
 }
+
+.gallery{
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  width: 100vw;
+}
+
+.img-task-03{
+  width: 100%;
+  border-radius: 8px;
+
+}
